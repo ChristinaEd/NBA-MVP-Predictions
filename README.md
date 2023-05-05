@@ -24,7 +24,7 @@ Error metrics used include MSE and Average Precision Error. Ranking is added to 
 ## Results
 - Effective Field Goal Percentage is the strongest indicator for ranking top five in the MVPs, followed by Defensive Rebounds and then the Win/Loss-Percentage of the team
 - Suggests that the team a player played on is correlated with their chance of becoming an MVP. 
--- Better teams are likely to attract higher-performing players, which in turn are more likely to play a winning game
+  - Better teams are likely to attract higher-performing players, which in turn are more likely to play a winning game
 - Each stat contributes to under 10% of the target, suggesting a player is more likely to get MVP status if they excel in several areas rather than specializing in one or two
 
 ### Notes
